@@ -11,7 +11,7 @@ objssd=bin/ssd.o
 objssdmap=bin/ssdmap.o
 objmain=bin/main.o
 
-includeflag=-I ./include
+includeflag=-I ./
 
 cbus=src/bus.cpp
 ccpu=src/cpu.cpp
